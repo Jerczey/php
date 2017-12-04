@@ -36,7 +36,7 @@ echo ' [ '; echo $i; echo ' ] = '; echo $numeros[$i]. '<br>';
 
 }
 
- 
+var_dump($numeros); 
 
  
 
